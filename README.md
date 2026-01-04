@@ -1,3 +1,6 @@
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+© 2026 Majid Bani, PhD — University of Missouri–Kansas City 
+
 # Bani-Lab-Disease-Modeling
 
 **Bani-Lab-Disease-Modeling** is a collection of interactive simulation labs designed to help **medical students and healthcare professionals** explore how clinical decisions and recommendations influence the spread of infectious diseases in communities and healthcare settings.

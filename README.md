@@ -74,7 +74,7 @@ These models include **background importation (κ)** to represent admissions and
 
 ---
 
-## 🔐 Privacy & Data
+##  Privacy & Data
 
 These simulations are designed for safe educational use.
 
@@ -100,7 +100,7 @@ The models are intentionally simplified to support learning, reflection, and dis
 
 ---
 
-## 📚 Key References
+##  Key References
 
 - Austin DJ, Bonten MJM, Weinstein RA, Slaughter S, Anderson RM.  
   *Transmission dynamics of vancomycin-resistant enterococci in intensive-care units.*  
@@ -120,6 +120,16 @@ The models are intentionally simplified to support learning, reflection, and dis
   *Pandemic preparedness and response — lessons from COVID-19.*  
   **New England Journal of Medicine**.
 
+
+## 📄 License
+
+This project is licensed under the  
+**Creative Commons Attribution–NonCommercial 4.0 International License (CC BY-NC 4.0)**.
+
+You are free to use, share, and adapt this work for **non-commercial educational
+and academic purposes**, with appropriate attribution.
+
+Commercial use requires explicit permission from the author.
 ---
 
 ##  Running the Apps Locally
@@ -141,12 +151,4 @@ streamlit run sir_app.py
 
 
 
-## 📄 License
 
-This project is licensed under the  
-**Creative Commons Attribution–NonCommercial 4.0 International License (CC BY-NC 4.0)**.
-
-You are free to use, share, and adapt this work for **non-commercial educational
-and academic purposes**, with appropriate attribution.
-
-Commercial use requires explicit permission from the author.

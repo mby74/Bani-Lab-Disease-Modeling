@@ -78,3 +78,12 @@ These models include **background importation (κ)** to represent admissions and
 ```bash
 pip install -r requirements.txt
 streamlit run sir_app.py
+## 📄 License
+
+This project is licensed under the  
+**Creative Commons Attribution–NonCommercial 4.0 International License (CC BY-NC 4.0)**.
+
+You are free to use, share, and adapt this work for **non-commercial educational
+and academic purposes**, with appropriate attribution.
+
+Commercial use requires explicit permission from the author.

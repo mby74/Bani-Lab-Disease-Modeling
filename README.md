@@ -70,6 +70,56 @@ These models include **background importation (κ)** to represent admissions and
 - `SSI_stochastic_decision_lab.py`  
   Separate stochastic model for **surgical site infections**, focused on procedures, prophylaxis, and OR practices.
 
+
+
+---
+
+## 🔐 Privacy & Data
+
+These simulations are designed for safe educational use.
+
+- No patient data is used or stored
+- No login or authentication is required
+- Student responses are downloaded locally by the user
+- No data is retained on the server
+
+These design choices support privacy, security, and responsible educational deployment.
+
+---
+
+## ⚠️ Important Disclaimer
+
+These models are **educational tools only**.
+
+They:
+- Do **not** predict real outbreaks
+- Do **not** replace infection prevention guidelines
+- Do **not** represent validated operational forecasts
+
+The models are intentionally simplified to support learning, reflection, and discussion about clinical decision-making under uncertainty.
+
+---
+
+## 📚 Key References
+
+- Austin DJ, Bonten MJM, Weinstein RA, Slaughter S, Anderson RM.  
+  *Transmission dynamics of vancomycin-resistant enterococci in intensive-care units.*  
+  **PNAS**, 1999.
+
+- Centers for Disease Control and Prevention (CDC).  
+  *Core Infection Prevention and Control Practices for Safe Healthcare Delivery.*
+
+- Centers for Disease Control and Prevention (CDC).  
+  *Healthcare-Associated Infection (HAI) Prevention Guidelines*  
+  (CAUTI, CLABSI, SSI).
+
+- Society for Healthcare Epidemiology of America (SHEA) / Infectious Diseases Society of America (IDSA).  
+  *Compendium of Strategies to Prevent Healthcare-Associated Infections.*
+
+- Fineberg HV.  
+  *Pandemic preparedness and response — lessons from COVID-19.*  
+  **New England Journal of Medicine**.
+
 ---
 
 ##  Running the Apps Locally
@@ -81,6 +131,16 @@ These models include **background importation (κ)** to represent admissions and
 ```bash
 pip install -r requirements.txt
 streamlit run sir_app.py
+
+
+
+
+
+
+
+
+
+
 ## 📄 License
 
 This project is licensed under the  
